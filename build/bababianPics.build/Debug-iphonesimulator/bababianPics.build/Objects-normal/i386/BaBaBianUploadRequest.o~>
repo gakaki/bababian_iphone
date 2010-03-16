@@ -1,0 +1,2 @@
+/Users/gakaki/Desktop/bababianPics/Classes/Controller/UploadAndTakePhoto/BaBaBianUploadRequest.m: In function '-[BaBaBianUploadRequest requestFinished:]':
+/Users/gakaki/Desktop/bababianPics/Classes/Controller/UploadAndTakePhoto/BaBaBianUploadRequest.m:73: warning: local declaration of 'request' hides instance variable

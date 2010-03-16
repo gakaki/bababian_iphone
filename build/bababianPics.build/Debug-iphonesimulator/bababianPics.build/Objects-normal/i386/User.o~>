@@ -1,0 +1,38 @@
+In file included from /Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:1:
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.h:39: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.h:39: warning: 'assign' attribute (default) not appropriate for non-gc object property 'alert'
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.h:40: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.h:40: warning: 'assign' attribute (default) not appropriate for non-gc object property 'indicator'
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m: In function '-[User requestFinished:]':
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:63: warning: local declaration of 'request' hides instance variable
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:66: warning: local declaration of 'request' hides instance variable
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:81: warning: local declaration of 'alert' hides instance variable
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:82: warning: local declaration of 'alert' hides instance variable
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m: In function '-[User requestFailed:]':
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:113: warning: local declaration of 'request' hides instance variable
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:113: warning: unused variable 'error'
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m: In function '+[User isUserExists:andPwd:]':
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:158: warning: initialization from incompatible pointer type
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:159: warning: invalid receiver type 'id*'
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:183: warning: invalid receiver type 'id*'
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m: In function '-[User fetchSessionKey]':
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:198: warning: initialization from incompatible pointer type
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:202: warning: invalid receiver type 'id*'
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:205: warning: invalid receiver type 'id*'
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:206: warning: invalid receiver type 'id*'
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:207: warning: invalid receiver type 'id*'
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m: In function '-[User initWithEmail:andPwd:]':
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:244: warning: initialization from incompatible pointer type
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:248: warning: invalid receiver type 'id*'
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:250: warning: invalid receiver type 'id*'
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:251: warning: invalid receiver type 'id*'
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m: In function '-[User dealloc]':
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:292: warning: invalid receiver type 'BOOL'
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:292: warning: cast to pointer from integer of different size
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:295: warning: invalid receiver type 'SEL'
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:296: warning: invalid receiver type 'SEL'
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:297: warning: invalid receiver type 'SEL'
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m: At top level:
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:304: warning: incomplete implementation of class 'User'
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:304: warning: method definition for '-returnString' not found
+/Users/gakaki/Desktop/bababianPics/Classes/Model/User.m:304: warning: class 'User' does not fully implement the 'returnString' protocol

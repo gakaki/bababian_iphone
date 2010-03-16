@@ -1,0 +1,20 @@
+－－＝＝巴巴变 api iphone客户端 需要3.0以上os运行＝＝－－
+
+  使用了 asihttprequest
+    和 three20 2个库 ，源代码中已经包含。
+
+
+bababian api 地址 http://www.bababian.com/api/APIDocument.htm
+
+  实现的api 有 以下几个
+
+bababian.user.bind
+
+bababian.photo.getRecommendPhoto
+
+bababian.photo.getPhotoList
+bababian.photo.uploadPhoto
+bababian.photo.uploadSession
+
+  最终目标在iphone上实现所有api
+  现在的版本已经内含 拍照 精彩推荐 和登入 的功能

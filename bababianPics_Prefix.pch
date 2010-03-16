@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'bababianPics' target in the 'bababianPics' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#import "Classes/api.m"
+#endif
